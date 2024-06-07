@@ -14,8 +14,8 @@ class Point:
 
 if __name__ == "__main__":
 
-    p1 = Point(3, 4)
-    p2 = Point(1, 2)
+    p1 = Point(5, 7)
+    p2 = Point(2, 3)
     p3 = p1 + p2
 
 
